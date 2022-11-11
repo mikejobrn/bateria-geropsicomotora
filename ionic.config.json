@@ -1,0 +1,7 @@
+{
+  "name": "Bateria Geropsicomotora",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
